@@ -1,0 +1,96 @@
+{
+  "company": {
+    "name": "Ayoub & Co Auto Corporation",
+    "logo": "/assets/logo2.png"
+  },
+  "navigation": [
+    {
+      "name": "Products",
+      "href": "product"
+    },
+    {
+      "name": "Brands",
+      "href": "features"
+    },
+    {
+      "name": "Location",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "mainHero": {
+    "title": "Ayoub & Co",
+    "subtitle": "Auto Corporation",
+    "description": "Established in 2007, Ayoub & Co Auto Corporation is a premier wholesale dealer specializing in heavy machinery parts. We offer a diverse range of components including hydraulic pump parts, motor pump parts, swing motor parts, rotor parts, piston shoes, and swash plates. As an authorized distributor of Handok Hydraulic, a reputable Korean company, we ensure the highest quality standards. Serving clients across Pakistan and Afghanistan, we provide reliable service and premium products with nationwide delivery. Trust Ayoub & Co Auto Corporation for all your heavy machinery needs.",
+    "img": "/assets/ex.jpg",
+    "primaryAction": {
+      "text": "Contact Us",
+      "href": "#"
+    }
+  },
+  "product": {
+    "title": "We deal in Premium Parts:",
+    "description": "Explore our premium collection of heavy machinery parts and accessories. We offer a comprehensive range of high-quality products tailored to meet your needs. From essential components to specialized parts, our selection includes everything you need to keep your machinery operating at peak performance.",
+    "products": [
+      {
+        "name": "Crulling Motor Parts (HD)",
+        "logo": "/assets/products/machine-1.gif"
+      },
+      {
+        "name": "Gear Pump",
+        "logo": "/assets/products/machine-2.gif"
+      },
+      {
+        "name": "Hydraulic Pump(HD)",
+        "logo": "/assets/products/machine-3.gif"
+      },
+      {
+        "name": "Rotor",
+        "logo": "/assets/products/machine-4.gif"
+      },
+      {
+        "name": "Swing Motor(HD)",
+        "logo": "/assets/products/machine-5.gif"
+      },
+      {
+        "name": "Valve Plate",
+        "logo": "/assets/products/machine-6.gif"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "We specialize in genuine parts from these brands",
+    "description": "We exclusively offer products from renowned heavy machinery brands. Explore our selection for top-quality parts and services. Drive efficiency and success with trusted industry names.",
+    "companies": [
+      {
+        "name": "HITACHI",
+        "logo": "/log/Hitachi.png",
+        "sizing": ""
+      },
+      {
+        "name": "HYUNDAI",
+        "logo": "/log/hyundai.png"
+      },
+      {
+        "name": "VOLVO",
+        "logo": "/log/volvo.png"
+      },
+      {
+        "name": "SAMSUNG",
+        "logo": "/log/sa.png"
+      },
+      {
+        "name": "HD",
+        "logo": "/log/HD.png"
+      },
+      {
+        "name": "NOK",
+        "logo": "/log/NOK.png"
+      }
+    ]
+  }
+}
