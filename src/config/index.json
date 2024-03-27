@@ -37,27 +37,63 @@
     "products": [
       {
         "name": "Crulling Motor Parts (HD)",
-        "logo": "/assets/products/machine-1.gif"
+        "logo": "/assets/products/8.jpeg"
       },
       {
         "name": "Gear Pump",
-        "logo": "/assets/products/machine-2.gif"
+        "logo": "/assets/products/9.jpeg"
       },
       {
         "name": "Hydraulic Pump(HD)",
-        "logo": "/assets/products/machine-3.gif"
+        "logo": "/assets/products/10.jpeg"
       },
       {
         "name": "Rotor",
-        "logo": "/assets/products/machine-4.gif"
+        "logo": "/assets/products/11.jpeg"
       },
       {
         "name": "Swing Motor(HD)",
-        "logo": "/assets/products/machine-5.gif"
+        "logo": "/assets/products/12.jpeg"
       },
       {
         "name": "Valve Plate",
-        "logo": "/assets/products/machine-6.gif"
+        "logo": "/assets/products/13.jpeg"
+      },
+      {
+        "name": "Rotor",
+        "logo": "/assets/products/14.jpeg"
+      },
+      {
+        "name": "Swing Motor(HD)",
+        "logo": "/assets/products/15.jpeg"
+      },
+      {
+        "name": "Valve Plate",
+        "logo": "/assets/products/1.jpeg"
+      },
+      {
+        "name": "Swing Motor(HD)",
+        "logo": "/assets/products/2.jpeg"
+      },
+      {
+        "name": "Valve Plate",
+        "logo": "/assets/products/3.jpeg"
+      },
+      {
+        "name": "Rotor",
+        "logo": "/assets/products/4.jpeg"
+      },
+      {
+        "name": "Swing Motor(HD)",
+        "logo": "/assets/products/5.jpeg"
+      },
+      {
+        "name": "Valve Plate",
+        "logo": "/assets/products/6.jpeg"
+      },
+      {
+        "name": "Valve Plate",
+        "logo": "/assets/products/7.jpeg"
       }
     ]
   },

@@ -18,9 +18,9 @@ const Product = () => {
           <div key={index} className="company flex flex-col items-center mx-4">
             <div>
               <img src={prod.logo} alt={prod.name} className="h-52" />
-              <h1 className="text-sm lg:text-md text-gray-500 py-5 text-center">
+              {/* <h1 className="text-sm lg:text-md text-gray-500 py-5 text-center">
                 {prod.name}
-              </h1>
+              </h1> */}
             </div>
           </div>
         ))}
