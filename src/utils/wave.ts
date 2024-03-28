@@ -1,4 +1,3 @@
-/* eslint-disable no-plusplus */
 class Wave {
   private waveLength: number[];
 
@@ -20,8 +19,8 @@ class Wave {
     if (this.waveLength.length < 3) {
       return;
     }
-    for (let i = 0; i < width; i++) {
-      const wave1 = Math.sin(i * (this?.waveLength[0] ?? 0) - frequency);
+    for (let i = 0; i < width; i += 1) {
+      const wave1 = Math.sin(i * (this.waveLength[0] ?? 0) - frequency);
       const wave2 = Math.sin(i * (this.waveLength[1] ?? 0) - frequency);
       const wave3 = Math.sin(i * (this.waveLength[2] ?? 0) - frequency);
 
