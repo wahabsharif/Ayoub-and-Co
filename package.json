@@ -16,6 +16,7 @@
   "dependencies": {
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.5",
+    "@next/bundle-analyzer": "^12.0.0",
     "framer-motion": "^5.0.0",
     "next": "^12.0.0",
     "next-seo": "^4.28.1",
@@ -26,7 +27,6 @@
     "styled-jsx-plugin-postcss": "^4.0.1"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "^12.0.0",
     "@types/node": "^16.11.6",
     "@types/react": "^17.0.33",
     "@typescript-eslint/eslint-plugin": "^4.32.0",
